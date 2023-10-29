@@ -1,3 +1,4 @@
+# Code to classify images based on brightness and contrast levels
 import numpy as np
 import cv2
 # import matplotlib.pyplot as plt
